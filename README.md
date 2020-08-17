@@ -9,7 +9,7 @@ git clone https://github.com/felaris/Screenshot-with-Python.git
 
 on your CMD to download this code
 
-you will need pyautogui library and Time  simply install by using 
+you will need pyautogui library and Time,     simply install by using 
 
 
 ***pip install Time***
