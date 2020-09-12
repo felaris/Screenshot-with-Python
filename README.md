@@ -1,19 +1,28 @@
 # Screenshot-with-Python
-This is a simple python script that is use to take screenshot....GUI screenshot app with python
+This is a simple python script used to take screenshot
 
-use 
-**
-git clone https://github.com/felaris/Screenshot-with-Python.git
-**
-on your CMD to download this code
+#GUI_Screenshot_with_Python 
+This is the GUI format of the Screenshot-with-Python codes
 
-you will need pyautogui library and Time  simply install by using 
+#The Windows App  the GUI_Screenshot_with_python 
+Inside the 'dist' folder  is the  GUI_Screenshot_with_python  App for windows
+
+# For Users
+for Users that wants a screenshot app , just download the .exe from the 'dist' folder and enjoy
+#For Developers 
+Any dev can download and edit this code 
+
+
+
+you will need pyautogui library , tkinter and Time 
+simply install by using 
 *pip install Time
 
 *pip install pyautogui
 
 
+
 **pip install tkinter
 
 
-run on any python IDE and enjoy , feel free to copy and edit
+##check the 'screenshot-data' folder for your data
